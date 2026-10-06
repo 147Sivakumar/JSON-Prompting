@@ -1,0 +1,39 @@
+{
+  "subject": "A Tamil woman in a handwoven Kanchipuram silk saree standing beside a traditional kolam in a Chettinad courtyard",
+  "setting": {
+    "place": "A traditional Chettinad mansion courtyard in Karaikudi, Sivaganga district, Tamil Nadu",
+    "era": "Late 19th-century Chettinad architectural setting, historically inspired",
+    "time_of_day": "golden hour"
+  },
+  "lighting": "Warm golden-hour sunlight entering through the courtyard, long soft shadows across the Athangudi-tiled floor, subtle highlights on the brass kuthuvilakku and silk fabric",
+  "camera": {
+    "shot": "medium-wide shot",
+    "lens": "50mm",
+    "angle": "eye level"
+  },
+  "palette": [
+    "terracotta red",
+    "muted turmeric yellow",
+    "deep maroon",
+    "aged lime plaster",
+    "natural brass"
+  ],
+  "style": "cinematic photorealism, culturally authentic Tamil Nadu documentary photography, realistic South Indian facial features, natural skin texture, restrained composition, historically grounded details",
+  "aspect_ratio": "16:9",
+  "avoid": [
+    "generic Indian palace",
+    "North Indian architecture",
+    "Mughal architecture",
+    "Bollywood styling",
+    "generic traditional sari",
+    "overly ornate jewelry",
+    "fantasy elements",
+    "modern buildings",
+    "electric decorative lights",
+    "plastic objects",
+    "text",
+    "watermark",
+    "oversaturated colors",
+    "stereotypical postcard composition"
+  ]
+}
