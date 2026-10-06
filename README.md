@@ -83,4 +83,44 @@ Only the `time_of_day` field is changed.
 
 **Purpose:** Observe how changing the time of day affects lighting and atmosphere while keeping the rest of the scene consistent.
 
-### Image 3 — Cam
+### Image 3 — Camera Shot
+
+Only the camera.shot field is changed.
+
+### Original:
+wide establishing shot
+
+### Changed to:
+close-up
+
+Purpose: Observe how camera framing changes the visual composition while preserving the same characters, setting and style.
+
+### Video
+
+The video uses the same base JSON scene with an additional motion section.
+
+The motion describes:
+
+Subject movement
+Environmental movement
+Camera movement
+Video duration
+
+The goal is to preserve the same characters, architecture, costumes, lighting and visual identity while introducing natural movement.
+
+### Why JSON Prompting?
+
+JSON prompting provides:
+
+Consistency — important scene details can remain fixed.
+Control — individual fields can be changed independently.
+Reusability — the same template can generate multiple variations.
+Clarity — every visual decision has a defined location.
+Experimentation — one field can be modified and its effect compared.
+Maintainability — prompts are easier to update than large paragraphs.
+
+### Learning Outcome
+
+This project demonstrates that effective AI prompting is not only about writing detailed descriptions. It is also about structuring decisions, controlling variables, maintaining consistency, and using culturally specific visual information.
+
+Authenticity lives in specifics: Chettinad architecture is not Thanjavur architecture, Kanchipuram silk is not a generic sari, and a Margazhi morning is not just any morning.
